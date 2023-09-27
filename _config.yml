@@ -2,7 +2,7 @@
 title: SHOFCO's Mixed Income International School
 email: elaurits@shofco.com
 description: A world class international school for change makers by change makers.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/shofco-international-school" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
