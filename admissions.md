@@ -5,10 +5,8 @@ description: Procedures for joining our community at Sankoré International Scho
 ---
 
 <section>
-	<h4>Text</h4>
-	<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-	This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-	This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+	<h4>Our Approach to Community Building</h4>
+	<p>Admissions to Sankoré International School is currently invite-only. We are currently in the process of mindfully and intentionally building an indestructable learning community of explorers, innovators, and change makers. In the spring of 2024, we will be reviewing invite requests for our next round of admissions.</p>
 	<hr />
 	<header>
 		<h4>Heading with a Subtitle</h4>
