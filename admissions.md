@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Admissions
-description: Procedures for joining our community at Sankoré International School
+description: join our community at Sankoré International School
 ---
 
 <section>
