@@ -6,21 +6,26 @@ description: Procedures for joining our community at Sankoré International Scho
 
 <section>
 	<h4>Our Approach to Community Building</h4>
-	<p>Admissions to Sankoré International School is currently <strong>invite-only</strong>. We mindfully and intentionally build our indestructable learning communities of explorers, innovators, and change makers with patience and precision. In the spring of 2024, we will be reviewing invite requests for our next round of admissions. Our experiential approaches to learning environments and holistic </p>
+	<p>Admissions to Sankoré International School is currently <strong>invite-only</strong>. We mindfully and intentionally build our indestructable learning communities of explorers, innovators, and change makers with patience and precision. In the spring of 2024, we will be reviewing our next round of invite requests for our next round of admissions. Our experiential approaches to learning environments and holistic </p>
 	<hr />
 	<header>
 		<h4>What do we look for in learners?</h4>
 		<p>How can we understand if we are a good fit for Sankoré?</p>
 	</header>
-	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is most important to us? The same thing that is most important to you - who your child is now and who your child will become. What supports can we, as a comminity, provide for that child to grow beyond their greatest potential </p>
+	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is most important to us? The same thing that is most important to you - who your child is now and who your child will become. What supports can we, as a comminity, provide for that child to grow beyond their greatest potential? With that in mind, our admissions process is not assessment based. Your child will nt have to sit for academic and behavorial assessments, nor will you as their family. Instead, we invite learners to share with us who they are, their current wishes and dreams, through whatever means they choose. We have recieved "day in the life" video submissions, poster presentations, artwork, and even mock presidential campaihn posters and speeches. Our requirement is to answer the decptively simple question: <i>Who are you, truly? Who are you as an individual and who are you as a family?</i></p>. Further details regarding our admissions process are provided when invitations for our next round of learners are sent out.
 	<hr />
 	<header>
-		<h5>School Fee Structure</h5>
+		<h5>School Calendar</h5>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
 	</header>
-	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<p>Our school schedule follows an American aligned schedule, as many of our graduates explore university experiences in the United States. This is a September - June calendar with breaks for December holidays and April holidays and Kenyan Holidays observed. Our year is broken into 2 Semesters/4 terms in alignment with American schooling structures. </p>
 	<hr />
 	<header>
+		<div class="box alt">
+		<div class="row uniform 50%">
+			<div class="12u"><span class="image fit"><img src="assets/images/My-School-1.jpg" alt="" /></span></div>
+		</div>
+	</div>
 		<h5>School Schedule</h5>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
 	</header>
