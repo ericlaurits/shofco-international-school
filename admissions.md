@@ -12,10 +12,22 @@ description: Procedures for joining our community at Sankoré International Scho
 		<h4>What do we look for in learners?</h4>
 		<p>How can we understand if we are a good fit for Sankoré?</p>
 	</header>
-	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is the most important thing to us is also the most important thing for you. Who is your child now? Who will your child become? What supports can we, as a comminity, provide for that child to grow beyond their greatest potential </p>
+	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is most important to us? The same thing that is most important to you - who your child is now and who your child will become. What supports can we, as a comminity, provide for that child to grow beyond their greatest potential </p>
 	<hr />
 	<header>
-		<h5>Heading with a Subtitle</h5>
+		<h5>School Fee Structure</h5>
+		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+	</header>
+	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<hr />
+	<header>
+		<h5>School Schedule</h5>
+		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+	</header>
+	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<hr />
+	<header>
+		<h5>School Fee Structure</h5>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
 	</header>
 	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
