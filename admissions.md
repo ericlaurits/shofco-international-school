@@ -6,13 +6,13 @@ description: Procedures for joining our community at Sankoré International Scho
 
 <section>
 	<h4>Our Approach to Community Building</h4>
-	<p>Admissions to Sankoré International School is currently invite-only. We are currently in the process of mindfully and intentionally building an indestructable learning community of explorers, innovators, and change makers. In the spring of 2024, we will be reviewing invite requests for our next round of admissions.</p>
+	<p>Admissions to Sankoré International School is currently <strong>invite-only</strong>. We mindfully and intentionally build our indestructable learning communities of explorers, innovators, and change makers with patience and precision. In the spring of 2024, we will be reviewing invite requests for our next round of admissions. Our experiential approaches to learning environments and holistic </p>
 	<hr />
 	<header>
-		<h4>Heading with a Subtitle</h4>
-		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+		<h4>What do we look for in learners?</h4>
+		<p>How can we understand if we are a good fit for Sankoré?</p>
 	</header>
-	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is the most important thing to us is also the most important thing for you. Who is your child now? Who will your child become? What supports can we, as a comminity, provide for that child to grow beyond their greatest potential </p>
 	<header>
 		<h5>Heading with a Subtitle</h5>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
