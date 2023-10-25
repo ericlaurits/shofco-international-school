@@ -13,6 +13,7 @@ description: Procedures for joining our community at Sankoré International Scho
 		<p>How can we understand if we are a good fit for Sankoré?</p>
 	</header>
 	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is the most important thing to us is also the most important thing for you. Who is your child now? Who will your child become? What supports can we, as a comminity, provide for that child to grow beyond their greatest potential </p>
+	<hr />
 	<header>
 		<h5>Heading with a Subtitle</h5>
 		<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
