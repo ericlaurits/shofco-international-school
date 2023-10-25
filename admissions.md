@@ -6,7 +6,7 @@ description: join our community at Sankoré International School
 
 <section>
 	<h4>Our Approach to Community Building</h4>
-	<p>Admissions to Sankoré International School is currently <strong>invite-only</strong>. We mindfully and intentionally build our indelible learning communities of explorers, innovators, and change makers with patience and precision. In the spring of 2024, we will be reviewing our next round of invite requests for application. Our experiential approaches to learning environments and holistic discovery create a vibrant learning community comprised from students from all walks of life. True to SHOFCO's mission, we're building grassroot networks of change-makers and investing in all youth, regardless of soceoeconomic status and privledge.</p>
+	<p>Admissions to Sankoré International School is currently <strong>invite-only</strong>. We mindfully and intentionally build our indelible learning communities of explorers, innovators, and change makers with patience and precision. In the spring of 2024, we will be reviewing our next round of invite requests for application. Our experiential approaches to learning environments and holistic discovery create a vibrant learning community comprised of students from all walks of life. True to SHOFCO's mission, we're building grassroot networks of change-makers and investing in all youth, regardless of soceoeconomic status and privledge.</p>
 	<hr />
 	<header>
 		<h5>What does Sankoré look for in learners?</h5>
