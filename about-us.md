@@ -29,7 +29,7 @@ description: the Sankoré difference
 			<div class="6u"><span class="image fit"><img src="assets/images/outdoor-learning.png" alt="" /></span></div>
 		</div>
 	</div>
-<p>Our current campus design and layout combines our pool, sports fields, state of the art performance spaces with our progressive treehouses, learning pods, arts studios, and modular experiential learning labs. We are networked for the future and beyond while at the same time placing extreme importance on our relationship and stewardship of the natural world. We celebrate both the Silicon Savannah and the physical Savannah.</p>
+<p>Our current campus design and layout combines our pool, sports fields, and state of the art performance spaces with our progressive treehouses, learning pods, arts studios, and modular experiential learning labs. We are networked for the future and beyond while at the same time placing extreme importance on our relationship and stewardship of the natural world. We celebrate both the Silicon Savannah and the physical Savannah.</p>
 	  <div class="box alt">
 		<div class="row uniform 50%">
 			<div class="4u"><span class="image fit"><img src="assets/images/1-288-.jpg" alt="" /></span></div>
