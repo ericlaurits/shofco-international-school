@@ -11,8 +11,9 @@ description: the Sankoré difference
   <header>
 		<div class="box alt">
 		<div class="row uniform 50%">
-			<div class="6u"><span class="image fit"><img src="assets/images/CCRVennDiagramPrint.png" alt="" /></span></div>
-			<div class="6u"><span class="image fit"><img src="assets/images/sdt.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/CCRVennDiagramPrint.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/sdt.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/wellness.png" alt="" /></span></div>
 		</div>
 	</div>
   <hr />
@@ -21,26 +22,17 @@ description: the Sankoré difference
 		<p>Where will our children be learning?</p>
 	</header>
 	<p>Our campus is seated in the heart of Nairobi, nestled among the Acacia and Jacaranda, abutting water and is easily accessible by car but feels peaceful and secluded from the bustle of city life. All our facilities have been designed without compromise to reflect our approaches to learning. Our guiding principles can be found among the world's leading educational designers and include Powered by AI, Neuroarchitecture, Biophilic Design, Salutogenic Design, Outdoor Learning, Self Determination Theory, and Choice Architecture. Sankoré is designed to promote student health and well-being while maintaining access to challenging and thought provoking academic work. There is an indestructible relationship between what we are learning and where we are learning.</p> 
-
+ <div class="box alt">
+		<div class="row uniform 50%">
+			<div class="6u"><span class="image fit"><img src="assets/images/treehouse.png" alt="" /></span></div>
+			<div class="6u"><span class="image fit"><img src="assets/images/outdoor-learning.png" alt="" /></span></div>
+		</div>
+	</div>
 <p>Our current campus design and layout combines our pool, sports fields, state of the art performance spaces with our progressive treehouses, learning pods, arts studios, and modular experiential learning labs. We are networked for the future and beyond while at the same time placing extreme importance on our relationship and stewardship of the natural world. We celebrate both the Silicon Savannah and the physical Savannah.</p>
 	  <div class="box alt">
 		<div class="row uniform 50%">
-			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/1-288-.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/2023-10-26.png" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/Farming-Kindergarten-by-Vo-Trong-Nghia_dezeen_784_0.jpg" alt="" /></span></div>
 		</div>
 	</div>
-	<hr />
-	<header>
-		<h5>School Calendar</h5>
-	</header>
-	<p>Our school schedule follows an American aligned schedule, as many of our graduates explore university experiences in the United States. This is a September - June calendar with extended breaks in December and April and Kenyan Holidays observed. Our year is broken into 2 Semesters/4 terms in alignment with American schooling structures. </p>
-	<hr />
-	
-	
