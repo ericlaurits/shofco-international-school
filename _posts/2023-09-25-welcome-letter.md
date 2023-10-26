@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Welcome to our School
-description: A welcome letter to prospective family members from SHOFCO's co-founders, Kennedy and Jess
+description: A welcome letter from SHOFCO's co-founders, Kennedy and Jessica Odede
 image: pic03.jpg
 ---
 NEEDS EDITING
 Dear perspective community member, 
 
-Fifteen years ago, we embarked on a groundbreaking education venture.  Could we build a school in the midst of  Kibera?  Could this school break persistent models of education and mold critical thinkers, problem solvers, pace setters, innovators while staying grounded in values of service and community?  The Kibera School for Girls was so successful we built a second in Mathare and today our students excel at top institutions around the globe.  The Chapin School (New York City’s premiere private school), has been our partner for over 14 years, innovating around curriculum, delivery, STEAM, teacher training, and more.  We currently have  students at Columbia University, Amherst College, Skidmore College, Connecticut College, Franklin & Marshall, Susquehanna University, Drexel University, The University of Hartford, Taft, Brooks, Miss Porter’s, Loomis Chafee, Episcopal… the list continues.  They are student body vice presidents, valedictorians, sports team captains.  Even more so, they are leaders in their communities where they design and implement community service projects that they deliver with their peers.  Deans of Admissions at the world’s most prestigious schools are frequent visitors to our campuses and each time they ask us, “How can you give us more students like these?”
+Fifteen years ago, we embarked on a groundbreaking education venture.  Could we build a school in the midst of Kibera?  Could this school break persistent models of education and mold critical thinkers, problem solvers, pace setters, innovators while staying grounded in values of service and community?  The Kibera School for Girls was so successful we built a second in Mathare and today our students excel at top institutions around the globe.  The Chapin School (New York City’s premiere private school), has been our partner for over 14 years, innovating around curriculum, delivery, STEAM, teacher training, and more.  We currently have  students at Columbia University, Amherst College, Skidmore College, Connecticut College, Franklin & Marshall, Susquehanna University, Drexel University, The University of Hartford, Taft, Brooks, Miss Porter’s, Loomis Chafee, Episcopal… the list continues.  They are student body vice presidents, valedictorians, sports team captains.  Even more so, they are leaders in their communities where they design and implement community service projects that they deliver with their peers.  Deans of Admissions at the world’s most prestigious schools are frequent visitors to our campuses and each time they ask us, “How can you give us more students like these?”
 
 Now, as parents ourselves, we found ourselves asking new questions about how our own children will be educated and become adapted, integrated citizens of Kenya and of our rapidly globalizing world.  
 
