@@ -11,7 +11,8 @@ description: the Sankoré difference
   <header>
 		<div class="box alt">
 		<div class="row uniform 50%">
-			<div class="12u"><span class="image fit"><img src="assets/images/CCRVennDiagramPrint.png" alt="" /></span></div>
+			<div class="2u"><span class="image fit"><img src="assets/images/CCRVennDiagramPrint.png" alt="" /></span></div>
+			<div class="2u"><span class="image fit"><img src="assets/images/sdt.jpg" alt="" /></span></div>
 		</div>
 	</div>
   <hr />
@@ -19,7 +20,22 @@ description: the Sankoré difference
 		<h5>Our Learning Campus</h5>
 		<p>Where will our children be learning?</p>
 	</header>
-	<p><span class="image left"><img src="assets/images/biophilic1-small.jpg" alt="" /></span>Our learners are the next generation of leaders, change-makers, activists, and innovators. They are the individuals creating the job opportunities for others. What is most important to us? The same thing that is most important to you - who your child is now and who your child will become. What supports can we, as a comminity, provide for that child to grow beyond their greatest potential? With that in mind, our admissions process is not assessment based. Your child will not have to sit for academic and behavorial assessments and surveys, nor will you as their family. Instead, we invite learners to share with us who they are, their current wishes and dreams, through whatever means they choose. We have recieved "day in the life" video submissions, poster presentations, artwork, and even mock presidential campain posters and speeches. Our requirement is to answer the decptively simple question: <i>Who are you, truly?</i> Who are you as an individual and who are you as a family?. Further details regarding our admissions process are provided when invitations for our next round of learners are sent out each year.</p>
+	<p>Our campus is seated in the heart of Nairobi, nestled among the Acacia and Jacaranda, abutting water and is easily accessible by car but feels peaceful and secluded from the bustle of city life. All our facilities have been designed without compromise to reflect our approaches to learning. Our guiding principles can be found among the world's leading educational designers and include Powered by AI, Neuroarchitecture, Biophilic Design, Salutogenic Design, Outdoor Learning, Self Determination Theory, and Choice Architecture. Sankoré is designed to promote student health and well-being while maintaining access to challenging and thought provoking academic work. There is an indestructible relationship between what we are learning and where we are learning.</p> 
+
+<p>Our current campus design and layout combines our pool, sports fields, state of the art performance spaces with our progressive treehouses, learning pods, arts studios, and modular experiential learning labs. We are networked for the future and beyond while at the same time placing extreme importance on our relationship and stewardship of the natural world. We celebrate both the Silicon Savannah and the physical Savannah.</p>
+	  <div class="box alt">
+		<div class="row uniform 50%">
+			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+		</div>
+	</div>
 	<hr />
 	<header>
 		<h5>School Calendar</h5>
