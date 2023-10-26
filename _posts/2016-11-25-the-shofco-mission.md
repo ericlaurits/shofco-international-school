@@ -5,13 +5,16 @@ description: What makes learning at a SHOFCO school so fundamentally different
 image: pic02.jpg
 ---
 
-SHOFCO has emerged as a global leader in community-based grassroots organization building promise from poverty. When we envisioned the evolution of our education institutions, we began explore how to begin to build networks of learners from all walks of life and connect Kenya's mission-driven families across socioeconomic divides. Our mixed-income school, Sankoré, was born. 
+#### Building Promise
+
+SHOFCO has emerged as a global leader in community-based grassroots organization building promise from poverty. When we envisioned the evolution of our education institutions, we began explore how to begin to build networks of learners from all walks of life and connect Kenya's mission-driven families across socioeconomic divides. Our mixed-income school, Sankoré, was born. We are creating a connected and equal Kenya.
 
 At SHOFCO, Our mission is to unleash the inherent power, dignity, and hope of communities in informal settlements -- creating opportunities for them to thrive. We envision a world where empowered local communities hold the voice, access, and knowledge to shape a future defined by resilience, equality, and boundless opportunity.
 
 At SHOFCO we value connection, innovation, transparency, empathy, and accountability. Those ideals are woven throughout Sankoré and serve as guiding principles for how we think about all children and communities when building our mixed-income school. 
 
-SHOFCO's founding story:
+#### SHOFCO's founding story:
+
 Kennedy Odede became a street child at the age of 10 and lived in the Kibera Slum for 23 years. During this time, he experienced extreme poverty, violence, a lack of opportunity and deep gender inequality. 
 
 However, Kennedy also witnessed the palpable hope that persists in slums and recognized that people sought something different for themselves, their families and their communities. Visionaries like Martin Luther King Jr. and Nelson Mandela showed him that great systemic change can come from within. Women like Kennedy's mother inspired him to build the solutions to urban poverty through addressing one of its core obstacles--the prohibitive level of gender inequality. 
