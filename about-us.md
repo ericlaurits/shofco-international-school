@@ -11,8 +11,8 @@ description: the Sankoré difference
   <header>
 		<div class="box alt">
 		<div class="row uniform 50%">
-			<div class="4u"><span class="image fit"><img src="assets/images/CCRVennDiagramPrint.png" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/sdt.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/CCRVennDiagramPrint.png" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/wellness.png" alt="" /></span></div>
 		</div>
 	</div>

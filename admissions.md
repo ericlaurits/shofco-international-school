@@ -27,6 +27,6 @@ description: join our community at Sankoré International School
 	</div>
 		<h5>School Fees</h5>
 		</header>
-	<p>Our tuition is currently $4000 USD per semester for preprimary, $4500 USD per semester for primary, and $5000 USD per semester for High School. These prices are subject to adjust on an annual basis. There is a one-time capital levy of $3000 per child due upon admission.</p>
+	<p>Our tuition is currently $4000 USD per semester for preprimary, $4500 USD per semester for primary, and $5000 USD per semester for high school. These prices are subject to adjust on an annual basis. There is a one-time capital levy of $3000 per child due upon admission.</p>
 	<hr />
 	
