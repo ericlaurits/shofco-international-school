@@ -7,6 +7,12 @@ description: join our community at Sankoré International School
 <section>
 	<h4>Our Approach to Community Building</h4>
 	<p>Admissions to Sankoré International School is currently <strong>invite-only</strong>. We mindfully and intentionally build our indelible learning communities of explorers, innovators, and change makers with patience and precision. In the spring of 2024, we will be reviewing our next round of invite requests for application. Our experiential approaches to learning environments and holistic discovery create a vibrant learning community comprised of students from all walks of life. True to SHOFCO's mission, we're building grassroot networks of change-makers and investing in all youth, regardless of soceoeconomic status and privledge.</p>
+	<header>
+		<div class="box alt">
+		<div class="row uniform 50%">
+			<div class="12u"><span class="image fit"><img src="assets/images/My-School-1.jpg" alt="" /></span></div>
+		</div>
+	</div>
 	<hr />
 	<header>
 		<h5>What does Sankoré look for in learners?</h5>
@@ -19,14 +25,8 @@ description: join our community at Sankoré International School
 	</header>
 	<p>Our school schedule follows an American aligned schedule, as many of our graduates explore university experiences in the United States. This is a September - June calendar with extended breaks in December and April and Kenyan Holidays observed. Our year is broken into 2 Semesters/4 terms in alignment with American schooling structures. </p>
 	<hr />
-	<header>
-		<div class="box alt">
-		<div class="row uniform 50%">
-			<div class="12u"><span class="image fit"><img src="assets/images/My-School-1.jpg" alt="" /></span></div>
-		</div>
-	</div>
 		<h5>School Fees</h5>
 		</header>
-	<p>Our tuition is currently $4000 USD per semester for preprimary, $4500 USD per semester for primary, and $5000 USD per semester for high school. These prices are subject to adjust on an annual basis. There is a one-time capital levy of $3000 per child due upon admission.</p>
-	<hr />
+	<p>Our tuition is currently $4000 USD per semester for preprimary, $4500 USD per semester for primary, and $5000 USD per semester for high school. These prices are subject to adjust on an annual basis. There is a one-time capital levy of $3000 USD per child due upon admission.</p>
+
 	
