@@ -13,6 +13,7 @@ description: join our community at Sankoré International School
 			<div class="12u"><span class="image fit"><img src="assets/images/My-School-1.jpg" alt="" /></span></div>
 		</div>
 	</div>
+	</header>
 	<hr />
 	<header>
 		<h5>What does Sankoré look for in learners?</h5>
@@ -25,6 +26,7 @@ description: join our community at Sankoré International School
 	</header>
 	<p>Our school schedule follows an American aligned schedule, as many of our graduates explore university experiences in the United States. This is a September - June calendar with extended breaks in December and April and Kenyan Holidays observed. Our year is broken into 2 Semesters/4 terms in alignment with American schooling structures. </p>
 	<hr />
+	<header>
 		<h5>School Fees</h5>
 		</header>
 	<p>Our tuition is currently $4000 USD per semester for preprimary, $4500 USD per semester for primary, and $5000 USD per semester for high school. These prices are subject to adjust on an annual basis. There is a one-time capital levy of $3000 USD per child due upon admission.</p>
