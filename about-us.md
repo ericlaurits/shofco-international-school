@@ -16,6 +16,7 @@ description: the Sankoré difference
 			<div class="4u"><span class="image fit"><img src="assets/images/wellness.png" alt="" /></span></div>
 		</div>
 	</div>
+	</header>
   <hr />
 	<header>
 		<h5>Our Learning Campus</h5>
