@@ -4,6 +4,13 @@ title: FAQ
 description: Frequently Asked Questions
 ---
 
+<h5>Do you have follow a national system or curriculum?</h5>
+			<blockquote>While we draw on best practices globally, our school is closely aligned with American systems and structures for learning. Our calendar and fee structure, along with our course offerings in high school, align with American norms and expectations. When our students are looking at education after Sankoré outside of Kenya, they are usually considering matriculation at American universities and we prepare them for that with AP coursework, 21st century learner skills, and international mindedness. </blockquote>
+
+<h5>Do you have follow a national system or curriculum?</h5>
+			While we draw on best practices globally, our school is closely aligned with American systems and structures for learning. Our calendar and fee structure, along with our course offerings in high school, align with American norms and expectations. When our students are looking at education after Sankoré outside of Kenya, they are usually considering matriculation at American universities and we prepare them for that with AP coursework, 21st century learner skills, and international mindedness.
+
+            
 School day - our school day runs from 8-430 including co-curriculars. If your child is not participating in co-curriculars, dismissal is at 3:30.
 
 System of Learning - while we draw on best practices globally, our school is closely aligned with American systems and structures for learning. Our calendar and fee structure, along with our course offerings in high school, align with American norms and expectations. When our students are looking at education after Sankoré outside of Kenya, they are usually considering matriculation at American universities and we prepare them for that with AP coursework, 21st century learner skills, and international mindedness.
