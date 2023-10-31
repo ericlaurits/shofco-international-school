@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to our School
+title: 👋🏼 Welcome to our School
 description: A welcome letter from SHOFCO's co-founders, Kennedy and Jessica Odede
 image: pic03.jpg
 ---
