@@ -1396,7 +1396,7 @@
 	}
 
 	body {
-		background: #2e3842;
+		background: #687418;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #687418;
+			background-color: #5e6246;
 			color: #c2c2c2;
 		}
 
@@ -2710,7 +2710,7 @@
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
-				color: #a6e0db !important;
+				color: #cacaca !important;
 			}
 
 			.wrapper.style1 :-moz-placeholder {
@@ -3160,7 +3160,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #898989;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
