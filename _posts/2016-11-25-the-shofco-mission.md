@@ -2,7 +2,7 @@
 layout: post
 title: 💙 The SHOFCO Mission
 description: What makes learning at a SHOFCO school so fundamentally different
-image: pic01.jpg
+image: Perspective_Amphitheatre_wide.png
 ---
 
 #### Building Promise

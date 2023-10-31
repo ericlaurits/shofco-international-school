@@ -2,7 +2,7 @@
 layout: post
 title: 👋🏼 Welcome to our School
 description: A welcome letter from SHOFCO's co-founders, Kennedy and Jessica Odede
-image: pic03.jpg
+image: kakapo-creek-childrens-garden-collingridge-and-smith-architects-casa_5.jpg
 ---
 NEEDS EDITING
 Dear perspective community member, 
