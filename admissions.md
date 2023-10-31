@@ -14,7 +14,8 @@ description: join our community at Sankoré International School
 		</div>
 	</div>
 	</header>
-	<header>
+	<div class="inner">
+		<header>
 			<h2>Our Journey Begins September 2024</h2>
 			<p>Reach out for information on how to request an invitation to join our community.</p>
 		</header>
@@ -22,6 +23,7 @@ description: join our community at Sankoré International School
 			<li><a href="https://8lb5xj0z5gw.typeform.com/to/rb3R2fui" class="button fit special" target="_blank">Join Us</a></li>
 			<li><a href="https://www.shofco.org/" class="button fit" target="_blank">About SHOFCO</a></li>
 		</ul>
+	</div>
 	<hr />
 	<header>
 		<h5>What does Sankoré look for in learners?</h5>
