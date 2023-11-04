@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 💙 The SHOFCO Mission
+title: 💙 🇰🇪 The SHOFCO Mission
 description: What makes learning at a SHOFCO school so fundamentally different
 image: wardian_london_interiors_0.jpg
 ---

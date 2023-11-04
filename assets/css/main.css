@@ -1396,7 +1396,7 @@
 	}
 
 	body {
-		background: #a54417;
+		background: #000000;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2308,7 +2308,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #a54417;
+			background-color: #BE3A34;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2428,7 +2428,7 @@
 
 			.features li:before {
 				display: block;
-				color: #d9d682;
+				color: #000000;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #595e38;
+			background-color: #000000;
 			color: #c2c2c2;
 		}
 
@@ -2795,11 +2795,11 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3f5f7f;
+			background-color: #BE3A34;
 		}
 
 		.wrapper.style3 {
-			background-color: #787753;
+			background-color: #009A44;
 			color: #d3d4e4;
 		}
 
@@ -3160,7 +3160,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #515151;
+		background: #000000;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3254,7 +3254,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #515151;
+		background: #000000;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3810,5 +3810,5 @@
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #515151;
+		background-color: #000000;
 	}
