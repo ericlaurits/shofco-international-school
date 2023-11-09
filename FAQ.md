@@ -23,7 +23,7 @@ description: Frequently Asked Questions
 <blockquote>Our school day runs from 0800 - 1630 including co-curriculars. If your child is not participating in co-curriculars, dismissal is at 1530.</blockquote>
 
 <h5>What is your student to teacher ratio?</h5>
-<blockquote>Our learner to instructor ratio is as follows: preprimary 5/1, primary 8/1, middle school 16/1, and high school 20/1</blockquote>
+<blockquote>Our learner to instructor ratio is as follows: preprimary 5/1, primary 10/1, middle school 20/1, and high school 20/1</blockquote>
 
 <h5>School programs?</h5>
 <blockquote>we offer sports training in ; and our co-curriculur arts options include instrument lessons, studio art, dramatic art.... during school hours students participate in music, art, mindfulness, drama, Swahili</blockquote>
