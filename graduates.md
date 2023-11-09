@@ -6,8 +6,9 @@ description: What can you do with a SHOFCO education?
 <section>
 	<h4>Where do SHOFCO students go after graduating?</h4>
 	<p>SHOFCO has a storied past with American prep schools and universities. We are constantly having to respond to requests from schools like Taft, Chapin, Columbia University, Loomis Chaffe, Conneticut College, all of which are clamoring for more SHOFCO graduates. The relationships that we have developed with many of the most exclusive learning institutions in the United States are built on an unshakable reputation for producing not only excellent students, but ones with a unique and valued perspective on affecting change in our global communities.</p>
-    
-	<p>We have been in parnertship and discussions with many universities throughout the development of Sankoré and we continually hear the same refrain over and over. "We cannot wait for your first round of graduates to start applying."</p>
+
+	<p>
+    <blockquote>We have been in parnertship and discussions with many universities throughout the development of Sankoré and we continually hear the same refrain over and over. "We cannot wait for your first round of graduates to start applying."</blockquote></p>
 </section>
 <section>
     <h5>Graduate Profiles</h5>
