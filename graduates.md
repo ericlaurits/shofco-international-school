@@ -1,17 +1,27 @@
 ---
-layout: page
-title: Graduates
-description: What can you do with a SHOFCO education?
----
-<section>
-	<h4>Where do SHOFCO students go after graduating?</h4>
-	<p>SHOFCO has a storied past with American prep schools and universities. We are constantly having to respond to requests from schools like Taft, Chapin, Columbia University, Loomis Chaffe, Conneticut College, all of which are clamoring for more SHOFCO graduates. The relationships that we have developed with many of the most exclusive learning institutions in the United States are built on an unshakable reputation for producing not only excellent students, but ones with a unique and valued perspective on affecting change in our global communities.</p>
 
-	<p>
-    <blockquote>We have been in parnertship and discussions with many universities throughout the development of Sankoré and we continually hear the same refrain over and over. "We cannot wait for your first round of graduates to start applying."</blockquote></p>
-</section>
+layout: page
+
+title: Graduates
+
+description: Where will go go with a SHOFCO education?
+
+---
+
 <section>
-    <h5>Graduate Profiles</h5>
-	<p><span class="image left"><img src="assets/images/demo-profile.jpeg" alt="" /></span>AWAITING COPY/IMAGE graduated from KSG in 2019; current senior at Taft School in CT. When she returned to Taft for her junior year, she launched her “Taft Shirt Off Your Back Challenge.” She created a video in which she states “Every day, we all start our day trying to figure out what we’ll wear to school. What if that decision meant the difference between whether or not you could go to class. In Kibera, where I’m from, students need to wear uniforms to go to school and many students can’t access an education because they can’t afford uniforms. So, what if we at Taft made a connection to the people from my community by donating necessary funds so that students in Kibera can go to school. The Taft Shirt Off Your Back Project is simple, look down at what you’re wearing right now, choose one item, and donate the value of that item to help educate students in Kibera.” She bravely shared the video at school assembly, parents’ weekend, and during the YYGS session she attended. In the end, she raised $2,500.</p>
-	<p><span class="image right"><img src="assets/images/demo-profile.jpeg" alt="" /></span>AWAITING COPY/IMAGE graduated from KSG in 2027; graduated from Starehe girls in Kenya in 2021; just started her Freshman year at Hartford. When the results were released, there was a brief moment of celebration as Hereniah learned she placed in the top 3% of the entire nation, and then she got back to work applying for scholarships. In July, Hereniah joined KenSAP as a SHOFCO Scholar. Although her national exam resulst were impressive, she was surrounded by 18 other scholars all who scored in the top .5% of the nation. Once again, this just further fueled Hereniahs fire. I have received candid feedback from the KenSAP Excutive Director that Hereniah was 1 of 2 of the most helpful and valued members of the KenSAP Scholars Program this cycle. Although she joined as a SHOFCO scholar, KenSAP is committeed to continuing to support her through her university journey in the US. While at a KenSAP fundraiser, she wowed those sitting at her table and left with an internship at one of the best law firms in Kenya.</p>
+
+<h4>Where do SHOFCO students go after graduating?</h4>
+
+<p>SHOFCO has a storied past with American prep schools and universities. We are constantly having to respond to requests from schools like Taft, Chapin, Columbia University, Loomis Chaffe, Conneticut College, all of which are clamoring for more SHOFCO graduates. The relationships that we have developed with many of the most exclusive learning institutions in the United States are built on an unshakable reputation for producing not only excellent students, but ones with a unique and valued perspective on affecting change in our global communities.</p>
+
+<p>
+<blockquote>We have been in parnership and discussions with many universities throughout the development of Sankoré and we continually hear the same refrain over and over. "We cannot wait for your first round of graduates to start applying."</blockquote></p>
+</section>
+
+<section>
+<h5>Graduate Profiles</h5>
+<p><span class="image left"><img src="assets/images/demo-profile.png" alt="" /></span>After graduating from SHOFCO schools, many of our students have traveled to America to continue their education. We currently have students (all receiving full scholarships) at Columbia University, Amherst College, Skidmore College, Wesleyan University, University of Hartford, Trinity University, Connecticut College, Susquehanna University, Franklin & Marshall, and Drexel University. For our students that have elected to do their high school experiences in the United States, SHOFCO has had students at Taft, Brooks, Loomis-Chaffee, Episcopal, Madeira, Miss Porters, Buffalo SEM, Stoneleigh-Burnham, Wasatch, and Westover. </p>
+
+<p>Our graduates vary widely in their views and approaches to the world, though they carry with them many of the foundational ideals instilled in them by SHOFCO. Our young scholars hold leadership positions in student government and on sports teams, have created initiatives and campaigns for the betterment of their schools and for Kenya, and have shouldered the weight of cultural ambassadors with pride and honor. Students have launched non-profits, received summer fellowships at prestigious law firms, raised funds for community service projects, and actively worked to break down stereotypes about Kenya and broader Africa.</p>
+
 </section>
